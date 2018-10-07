@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/tinevra17/c4deployment/issues"
   },
+  "engines": {
+      "node": "8.9.0"
+  },
   "homepage": "https://github.com/tinevra17/c4deployment#readme",
   "dependencies": {
     "express": "^4.16.3",
