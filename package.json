@@ -1,0 +1,23 @@
+{
+  "name": "c4deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinevra17/c4deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinevra17/c4deployment/issues"
+  },
+  "homepage": "https://github.com/tinevra17/c4deployment#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "parse": "^2.1.0"
+  }
+}
