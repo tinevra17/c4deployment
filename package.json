@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/tinevra17/c4deployment#readme",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "parse": "^2.1.0",
-    "parse-server": "^3.0.0"
+    "parse-server": "^3.10.0"
   }
 }
